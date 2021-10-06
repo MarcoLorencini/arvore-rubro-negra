@@ -1,0 +1,2 @@
+# arvore-rubro-negra
+Olá, meu nome é Marco e este código é um trabalho submetido a disciplina de Estrutura de Dados 1 da Universidade Federal do Espírito Santo. O trabalho consiste em implementar em C um programa que lê um arquivo texto (no formato .txt) e imprima, em ordem alfabética, as palavras e as suas frequências no texto. As palavras e suas frequências deverão ser inseridas em uma estrutura de dados chamada Árvore Rubro Negra, cujo código deverá ser implementado considerando as funções básicas de inserção e caminhamento.
